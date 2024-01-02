@@ -147,10 +147,10 @@ nav {
   max-width: 600px;
   aspect-ratio: 1;
   margin: auto;
-  background-image: url("Another\ Pic.jpeg");
+  background-image: url("Profile Pic.jpeg");
   background-position: center center;
   background-size: cover;
-  -webkit-mask: url("header-bg.png");
+  -webkit-mask: url("Profile Bg.png");
   -webkit-mask-size: cover;
   -webkit-mask-position: center center;
 }
